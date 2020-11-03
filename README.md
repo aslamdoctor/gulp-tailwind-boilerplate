@@ -50,7 +50,7 @@ npm run build # to build the css/js files by minimizing and purging them and sav
 **STEP 6** - After all is done, don't forget to push the changes on Git repo using below command so we can stay in sync.
 
 ```
-git push origin master
+git push
 ```
 
 **STEP 7** - If you want to add any new SASS file, simply add it inside **/dev/src/css/** folder and it will compile automatically. Don't forget to stop gulp compiler and restart it.
